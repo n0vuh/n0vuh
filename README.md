@@ -1,5 +1,5 @@
 ### Hey, I'm n0vuh.
-## Experienced Python Developer who is learning NodeJS & C#.
+Experienced Python Developer who is learning NodeJS & C#.
 
 - You can reach me via email (novuhbusiness@gmail.com) or n0vuh#0002
 - I can be commissioned to work for you.
