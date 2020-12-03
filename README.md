@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm n0vuh.
+## Experienced Python Developer who is learning NodeJS & C#.
+
+- You can reach me via email (novuhbusiness@gmail.com) or n0vuh#0002
+- I can be commissioned to work for you.
+- I have almost a year of experience with a lot of background knowledge.
 
 <!--
 **n0vuh/n0vuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
