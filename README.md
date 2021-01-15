@@ -1,7 +1,7 @@
 ### Hey, I'm n0vuh.
 Experienced Python Developer who is learning NodeJS & C# and focuses on web development aswell as creating intuitive applications for people to use in the real world.
 
-- You can reach me via email (novuhbusiness@gmail.com) or via Discord (n0vuh#0002)
+- You can reach me via email (novuhbusiness@gmail.com) or via Discord (novuh#9676)
 - I can be commissioned to work for you.
 - I have almost a year of experience with a lot of background knowledge.
 
