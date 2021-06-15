@@ -1,21 +1,13 @@
-### Hey, I'm n0vuh.
-Experienced Python Developer who is learning NodeJS & C# and focuses on web development aswell as creating intuitive applications for people to use in the real world.
+## Hey! I'm novuh.
+I am an 15 y/o Python developer. I try my best to always improve and be better at what I do, always. I make intuitive applications that (hopefully) can be used in the real world.
+* 🐍 Python 3
+* ⚙️ NodeJS
+* 🖥️ C#
 
-- You can reach me via email (novuhbusiness@gmail.com) or via Discord (novuh#9676)
-- I can be commissioned to work for you.
-- I have almost a year of experience with a lot of background knowledge.
+![n0vuh stats](https://github-readme-stats.vercel.app/api?username=n0vuh&show_icons=true&theme=midnight-purple) 
 
-<!--
-**n0vuh/n0vuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🔗 [My Website](https://novuh.dev) |
+📧 contact@novuh.dev | 
+📧 novuh#2719 (discord) |
+Want to hire/commission me? Contact me!
